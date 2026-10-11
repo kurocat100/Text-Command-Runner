@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+
+# IDE / VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Fabric / Minecraft
+.mappedSources/
+run/
