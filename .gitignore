@@ -1,0 +1,14 @@
+# Gradleの生成物
+.gradle/
+build/
+.gradle-loom/
+
+# VS Code / Eclipse の生成物
+.classpath
+.project
+.factorypath
+bin/
+.vscode/
+
+# 謎に多いHTML(上記で消せてるかもだが)
+*.html
